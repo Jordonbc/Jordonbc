@@ -30,7 +30,7 @@
 
 ---
 
-<img align="left" alt="Jordonbc's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jordonbc&show_icons=true&hide_border=true" />
+<img align="left" alt="Jordonbc's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jordonbc&show_icons=true&hide_border=true&theme=radical" />
 
 [website]: https://jordonbc.github.io
 [twitter]: https://twitter.com/jordonbc1
