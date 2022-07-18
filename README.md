@@ -17,18 +17,6 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
----
-
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
 <img align="left" alt="Jordonbc's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jordonbc&show_icons=true&hide_border=true&theme=radical" />
 
 [vrengine]: https://github.com/jordonbc/vrengine
