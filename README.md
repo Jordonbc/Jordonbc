@@ -1,7 +1,7 @@
 ### Hello, I'm Jordon - aka [Jordonbc][website] 👋
 
 ## I'm an indie developer focused on virtual reality! 🥽
-- 🔭 I’m currently working on a secret game
+- 🎮 I’m currently working on a secret game
 - 🌱 I’m currently learning the Unreal API
 - ⚡ Fun fact: My favourite OS is Manjaro Linux 🐧
 
